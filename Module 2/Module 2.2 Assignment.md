@@ -8,5 +8,7 @@ In this lesson, you learned how to commit file changes, create branches, and fet
 4. On the `Campus-Advisor-Training` repository you cloned to your computer in the last assignment, fetch and merge the changes you’ve made in this file into your `master` branch using the command line
 
 
+
+
 ## Submission
 To submit this assignment, create an issue titled `Module 2.2 Assignment` in this repository. In the issue, provide a screenshot of your command line showing the commands you used to complete this assignment, then proceed to the next section in this module.
